@@ -6,19 +6,19 @@ This document outlines the naming conventions used for schemas, tables, views, c
 
 ## **General Principles**
 
-- Naming Conventions: Use snake_case, with lowercase letters and underscores (\_) to separate words.
-- Language: Use English for all names.
-- Avoid Reserved Words: Do not use SQL reserved words as object names.
+- **Naming Conventions**: Use snake_case, with lowercase letters and underscores (\_) to separate words.
+- **Language**: Use English for all names.
+- **Avoid Reserved Words**: Do not use SQL reserved words as object names.
 
 ## **Table Naming Conventions**
 
 ### Bronze Rules
 
 - All names must start with the source system name, and table names must match their original names without renaming.
-- **&lt;sourcesystem&gt;\_&lt;entity&gt;**
-- &lt;sourcesystem&gt;: Name of the source system (e.g., crm, erp).
-- &lt;entity&gt;: Exact table name from the source system.
-- Example: crm_customer_info → Customer information from the CRM system.
+- `**<sourcesystem_>****<entity>**`
+-- `<sourcesystem>`: Name of the source system (e.g., `crm`, `erp`).
+-- `<entity>`: Exact table name from the source system.
+-- Example: `crm_customer_info` → Customer information from the CRM system.
 
 ### Silver Rules
 
