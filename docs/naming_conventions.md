@@ -15,7 +15,7 @@ This document outlines the naming conventions used for schemas, tables, views, c
 ### Bronze Rules
 
 - All names must start with the source system name, and table names must match their original names without renaming.
-- `**<sourcesystem_>****<entity>**`
+- **`<sourcesystem_>`****`<entity>`**
 -- `<sourcesystem>`: Name of the source system (e.g., `crm`, `erp`).
 -- `<entity>`: Exact table name from the source system.
 -- Example: `crm_customer_info` → Customer information from the CRM system.
