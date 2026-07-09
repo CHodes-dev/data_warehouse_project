@@ -39,6 +39,8 @@ This project demonstrates the end-to-end process of building a **Data Warehouse*
 | **DrawIO** | Diagramming tool used to design data architecture, ERDs, and pipeline flow visuals |
 | **Notion** | Project management tool used to organize phases, tasks, and documentation throughout the project |
 
+---
+
 ## 🗂️ Project Requirements
 
 ### 🏗️ Building the Data Warehouse (Data Engineering)
