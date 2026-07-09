@@ -112,4 +112,4 @@ I'm passionate about turning raw data into clarity. For me, data analysis isn't 
 
 If you share the same curiosity about making sense of data, feel free to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftah-alchaarini/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftah-alcharini/)
