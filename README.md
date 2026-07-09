@@ -2,11 +2,11 @@
 
 ## Introduction
 
-This project demonstrates a comprehensive data warehousing and analytics solution — from building a data warehouse to generating actionable insights. Starting from raw CSV files, it walks through the entire journey of data: ingestion, cleaning, transformation, and loading into a structured warehouse ready for analysis. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
+This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Starting from raw CSV files, it walks through the entire journey of data: ingestion, cleaning, transformation, and loading into a structured warehouse ready for analysis. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
 
 > ⚠️ **Heads up!**
 > This project is part of a **free course by [Data with Baraa](https://www.blog.datawithbaraa.com/)**. The raw data, structure, and workflow in this repository follow his original course material. Full credit goes to him for the curriculum and dataset.
-> This repo serves as my personal learning documentation — not an original work.
+> This repo serves as my personal learning documentation [not an original work].
 
 ---
 
@@ -59,16 +59,16 @@ Develop a modern data warehouse using SQL Server to consolidate sales data, enab
 
 **Objective**
 Develop SQL-based analytics to deliver detailed insights into:
-- 👥 **Customer Behavior**: Understanding who buys, when, and how often
-- 🛍️ **Product Performance**: Identifying which products drive value
-- 📈 **Sales Trends**:Tracking revenue patterns over time
+👥 **Customer Behavior**: Understanding who buys, when, and how often
+🛍️ **Product Performance**: Identifying which products drive value
+📈 **Sales Trends**:Tracking revenue patterns over time
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.
 
 ---
 
 ## 📂 Repository Structure
-
+```
 data-warehouse-project/
 │
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
@@ -92,12 +92,13 @@ data-warehouse-project/
 │
 ├── README.md                           # Project overview and instructions
 └── LICENSE                             # License information for the repository
+```
 
 ---
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute with attribution.
+This project is licensed under the **MIT License**, feel free to use, modify, and distribute with attribution.
 
 ---
 
@@ -108,3 +109,4 @@ Hi, I'm **Miftah**, a data analyst who believes that the best decisions come fro
 I'm passionate about turning raw data into clarity. For me, data analysis isn't just about numbers, it's about helping people understand *where* the problem really is, *how* to think through it, and *what* decision actually fits the situation.
 
 If you share the same curiosity about making sense of data, feel free to connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miftah-alcharini)
