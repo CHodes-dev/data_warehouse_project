@@ -109,4 +109,5 @@ Hi, I'm **Miftah**, a data analyst who believes that the best decisions come fro
 I'm passionate about turning raw data into clarity. For me, data analysis isn't just about numbers, it's about helping people understand *where* the problem really is, *how* to think through it, and *what* decision actually fits the situation.
 
 If you share the same curiosity about making sense of data, feel free to connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/miftah-alcharini)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miftah-alchaarini)
